@@ -1,0 +1,5 @@
+name: JoinFullServers
+author: AdamPaddyWaddy
+version: 1.0
+main: com.AdamPaddyWaddy.JoinFullServers.Core
+descripition: Allow donators to join full servers!
